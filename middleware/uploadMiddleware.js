@@ -16,7 +16,7 @@ const fileFilter = (req, file, cb) => {
     const allowedTypes = /jpeg|jpg|png/;
 
     const extname = allowedTypes.test(
-        path.extname(file.originalname).toLowerCase();
+        path.extname(file.originalname).toLowerCase()
     );
 
     const nimetype = allowedTypes.test(file.mimetype);
@@ -27,3 +27,13 @@ const fileFilter = (req, file, cb) => {
         cb(new Error("Hanya file JPG, JPEG, dan PNG yang diperbolehkan."), false);
     }
 };
+
+const upload = multer({
+    storage: storage,
+    fileFilter: fileFilter,
+    limits: {
+        fileSize: 2 * 1024 * 1024
+    }
+});
+
+module.exports = upload;
