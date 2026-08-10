@@ -6,3 +6,5 @@ POST LOGIN
 POST KOMIK
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/05d54d6b-e56a-47ca-a550-80722a169efe" />
 POST GENRE
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1127dbf7-6296-4d2f-9fb7-723351f9c727" />
+GET KOMIK
