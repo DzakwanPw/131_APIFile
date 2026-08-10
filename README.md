@@ -1,10 +1,8 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/28d2fac4-2362-423e-9e4c-a01de4395b38" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/08e669dd-c4e0-4b4b-96d0-08372c29cf45" />
 POST REGISTER
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/60fbf080-69c8-409f-9859-bb4378724cdc" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/7681ed50-7bec-412f-b46b-beb067e8feb9" />
 POST LOGIN
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2f50ac42-7d8f-45aa-94a9-b3fa43b3712b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55078bf3-96d8-4ee9-b5fb-6ca8bb1ba814" />
 POST KOMIK
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/05d54d6b-e56a-47ca-a550-80722a169efe" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1403581e-de1f-494a-a9ac-9cbcbe0be8dd" />
 POST GENRE
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1127dbf7-6296-4d2f-9fb7-723351f9c727" />
-GET KOMIK
