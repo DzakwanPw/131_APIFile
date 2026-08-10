@@ -4,3 +4,5 @@ POST REGISTER
 POST LOGIN
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2f50ac42-7d8f-45aa-94a9-b3fa43b3712b" />
 POST KOMIK
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/05d54d6b-e56a-47ca-a550-80722a169efe" />
+POST GENRE
